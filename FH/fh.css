@@ -1,0 +1,20 @@
+h1 {
+  font-family: 'Leckerli One', cursive;
+}
+
+a {
+  font-family: 'Yellowtail', cursive;
+}
+
+.form-rounded {
+  border-radius: 7rem;
+}
+h2 {
+  font-family: 'Bungee', cursive;
+}
+.jumbotron-rounded {
+  border-radius: 5rem;
+}
+.border-bottom {
+  color: red;
+}

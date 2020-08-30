@@ -1,0 +1,43 @@
+Head:
+
+1: <link href="https://fonts.googleapis.com/css2?family=Sriracha&display=swap" rel="stylesheet"> 
+
+font-family: 'Sriracha', cursive;
+
+2: <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"> 
+
+font-family: 'Bebas Neue', cursive;
+
+3: <link href="https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap" rel="stylesheet"> 
+
+font-family: 'Leckerli One', cursive;
+
+
+Body:
+
+1: <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet"> 
+
+font-family: 'Fredoka One', cursive;
+
+2: <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+
+font-family: 'Righteous', cursive;
+
+3: <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+
+font-family: 'Patrick Hand', cursive;
+
+
+Other:
+
+1: <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet"> 
+
+font-family: 'Bungee', cursive;
+
+2: <link href="https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap" rel="stylesheet">
+
+font-family: 'Oleo Script', cursive
+
+3: <link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet"> 
+
+font-family: 'Yellowtail', cursive;

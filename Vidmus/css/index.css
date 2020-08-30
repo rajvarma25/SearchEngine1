@@ -1,0 +1,43 @@
+.jumbotron-rounded {
+	border-radius: 1rem;
+}
+
+body {
+	background-image:url('wall.jpg');
+	background-size:100%;
+}
+
+
+h1 {font-family: 'Lobster Two', cursive;
+     font-size:35px;
+	 color:white;
+}
+
+
+
+.form-rounded {
+	border-radius: 1rem;
+}
+
+.navbar-rounded {
+	border-radius: 1rem;
+}
+
+ul {
+	font-family: 'Cormorant Upright', serif;
+	font-size:20px;
+	
+}
+
+
+button {
+	font-family: 'Cormorant Upright', serif;
+	font-size:25px;
+	
+}
+
+a {
+	color:White;
+}
+
+

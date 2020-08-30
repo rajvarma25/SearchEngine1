@@ -1,0 +1,47 @@
+h1 {
+     font-family: 'Dancing Script', cursive;
+     font-size:40px;
+     color:white;
+}
+
+.card {
+
+        background-image:url('css/spk10.jpg');
+        background-size:100%;
+}
+
+.navbar-rounded {
+	border-radius: 1rem;
+}
+
+a {
+   font-family: 'Righteous', cursive;
+
+   font-size:25px;
+   color:white;
+}
+
+h2 {
+   font-family: 'Lobster Two', cursive;
+
+     font-size: 40px;
+
+     color:white;
+}
+
+.form-rounded {
+	border-radius: 1rem;
+}
+
+form {
+    padding-left: 250px;
+    padding-top: 250px;
+}
+
+text-animation {
+   bounce:10s;
+}
+
+.dropdown {
+   justify-content: end;
+}
